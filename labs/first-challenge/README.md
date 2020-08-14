@@ -1,32 +1,25 @@
 First Code Challenge
 ====================
 
-This is the first challenge in your Advanced Programming Class.
-
-1. Solve the [Length of a Nested Array](https://edabit.com/challenge/yXSTvCNen2DQHyrh6) challenge by using the programming language of your choice.
-2. Below are some documentation sections that need to be updated. Those are required for the processor to build and execute your code.
-3. Certainly, this problem is already solved in the web, so we recommend you to solve it by your own without consulting others solutions.
-4. This is a exploratory excersice that will help the professor to adapt the labs and challenges for the course.
-3. Have fun and come prepared on next class.
+This is th first challenge of the class I decided to use Node.js because I have been using it all summer :)
 
 Build Requirements
 ------------------
-```
-# Build Requirements here
-```
++ [Node.js](https://nodejs.org/es/)
++ [Make](https://www.gnu.org/software/make/)
 
 
 How to build
 ------------
 ```
-# instructions here
+No need to build with Node.js
 ```
 
 
 How to Run
 ----------
 ```
-# instructions here
+Make test
 ```
 
 
