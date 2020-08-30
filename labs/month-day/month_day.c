@@ -1,6 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h> 
-extern 
+
 /* month_day function's prototype*/
 void month_day(int year, int yearday, int *pmonth, int *pday);
 
