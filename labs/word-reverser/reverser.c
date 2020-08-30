@@ -17,5 +17,4 @@ int main(){
         }
         str[i++] = ch;
     }
-    printf("%s",str);
 }
