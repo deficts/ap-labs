@@ -18,10 +18,16 @@ int main(int argc, char** argv)
         return 1;
     }
 
+    if(argc == 2 && strcmp(argv[1],"-n") == 0){
+        printf("Error: wrong set of parameters.\n");
+        printf("Usage: ./generic_merge_sort <type (default is string)> <filename>\n");
+        return 1;
+    }
+
     if(argc == 3 && strcmp(argv[1],"-n") == 0){
         type = 1;
     }
- 
+
     FILE *file;
 
     if(type){
