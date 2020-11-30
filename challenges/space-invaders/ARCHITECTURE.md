@@ -23,11 +23,9 @@ each of the enemies is being created within a thread that implements the behavio
 
 ## Process diagram
 
-<p align=center>
- <img width=750 src=https://github.com/deficts/ap-labs/blob/space-invaders/challenges/space-invaders/Process_diagram.png>
-</p>
+![process diagram](./process_diagram.png)
 
 
 ## Activity diagram
 
-<img src=https://github.com/deficts/ap-labs/blob/space-invaders/challenges/space-invaders/Activity_diagram.png>
+![process diagram](./Activity_diagram.png)
